@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Raphael  
 
-<!--
-**raphael557/raphael557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Jovem Aprendiz em TI  
+🎓 Estudante de Informática  
+🚀 Apaixonado por tecnologia e aprendizado contínuo  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Atualmente
+- Aprendendo desenvolvimento web  
+- Atuo com tecnologia educacional  
+- Busco sempre evoluir e criar projetos práticos  
+
+---
+
+### ⚙️ Tecnologias (Em desenvolvimento)
+HTML5 • CSS3 • Arduíno • GitHub  
+
+---
+
+### 📫 Contato
+📧 raphalmestre502gmail.com
+
+---
